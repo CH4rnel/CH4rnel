@@ -1,4 +1,12 @@
-## Hi there 👋
+# CH4rnel
+
+> Open Source Systems Engineer • AI Infrastructure • Linux • Blockchain • Cybersecurity
+
+I build open-source software focused on autonomous systems, artificial intelligence, distributed infrastructure and developer tooling.
+
+My goal is to design reliable software ecosystems rather than isolated applications.
+
+---
 
 <!--
 **CH4rnel/CH4rnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
