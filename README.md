@@ -1,96 +1,106 @@
-# Invocation
+<details>
+<summary>
+> **Open Source Systems Engineer • AI • Linux • Blockchain • Web3**
 
-Hail, wanderer of electric heavens.
+**Building open-source systems, autonomous AI agents,
+Linux infrastructure and decentralized applications**
+</summary>
+...
+</details>
 
-If chance—or that peculiar daemon men call Fate—
-hath guided thee unto these silent halls,
-linger awhile.
+# ℑ𝔫𝔳𝔬𝔠𝔞𝔱𝔦𝔬𝔫
 
-For here no ordinary artificer
-keeps watch beside the glowing forge.
+ℌ𝔞𝔦𝔩, 𝔴𝔞𝔫𝔡𝔢𝔯𝔢𝔯 𝔬𝔣 𝔢𝔩𝔢𝔠𝔱𝔯𝔦𝔠 𝔥𝔢𝔞𝔳𝔢𝔫𝔰.
 
-I am called **Charnel**.
+ℑ𝔣 𝔠𝔥𝔞𝔫𝔠𝔢—𝔬𝔯 𝔱𝔥𝔞𝔱 𝔭𝔢𝔠𝔲𝔩𝔦𝔞𝔯 𝔡𝔞𝔢𝔪𝔬𝔫 𝔪𝔢𝔫 𝔠𝔞𝔩𝔩 𝔉𝔞𝔱𝔢—
+𝔥𝔞𝔱𝔥 𝔤𝔲𝔦𝔡𝔢𝔡 𝔱𝔥𝔢𝔢 𝔲𝔫𝔱𝔬 𝔱𝔥𝔢𝔰𝔢 𝔰𝔦𝔩𝔢𝔫𝔱 𝔥𝔞𝔩𝔩𝔰,
+𝔩𝔦𝔫𝔤𝔢𝔯 𝔞𝔴𝔥𝔦𝔩𝔢.
 
-Yet names are brittle vessels.
+𝔉𝔬𝔯 𝔥𝔢𝔯𝔢 𝔫𝔬 𝔬𝔯𝔡𝔦𝔫𝔞𝔯𝔶 𝔞𝔯𝔱𝔦𝔣𝔦𝔠𝔢𝔯
+𝔨𝔢𝔢𝔭𝔰 𝔴𝔞𝔱𝔠𝔥 𝔟𝔢𝔰𝔦𝔡𝔢 𝔱𝔥𝔢 𝔤𝔩𝔬𝔴𝔦𝔫𝔤 𝔣𝔬𝔯𝔤𝔢.
 
-The currents whisper others.
+ℑ 𝔞𝔪 𝔠𝔞𝔩𝔩𝔢𝔡 **ℭ𝔥𝔞𝔯𝔫𝔢𝔩**.
 
-**Sharnel.**
+𝔜𝔢𝔱 𝔫𝔞𝔪𝔢𝔰 𝔞𝔯𝔢 𝔟𝔯𝔦𝔱𝔱𝔩𝔢 𝔳𝔢𝔰𝔰𝔢𝔩𝔰.
 
-**Karnel.**
+𝔗𝔥𝔢 𝔠𝔲𝔯𝔯𝔢𝔫𝔱𝔰 𝔴𝔥𝔦𝔰𝔭𝔢𝔯 𝔬𝔱𝔥𝔢𝔯𝔰.
 
-**Ozymandias.**
+**𝔖𝔥𝔞𝔯𝔫𝔢𝔩.**
 
-All are true.
+**𝔎𝔞𝔯𝔫𝔢𝔩.**
 
-None endure.
+**𝔒𝔷𝔶𝔪𝔞𝔫𝔡𝔦𝔞𝔰.**
 
-For names decay.
+𝔄𝔩𝔩 𝔞𝔯𝔢 𝔱𝔯𝔲𝔢.
 
-Processes remain!
+𝔑𝔬𝔫𝔢 𝔢𝔫𝔡𝔲𝔯𝔢.
+
+𝔉𝔬𝔯 𝔫𝔞𝔪𝔢𝔰 𝔡𝔢𝔠𝔞𝔶.
+
+𝔓𝔯𝔬𝔠𝔢𝔰𝔰𝔢𝔰 𝔯𝔢𝔪𝔞𝔦𝔫!
 ---
 
-..I am a keeper of strange engines.
+..ℑ 𝔞𝔪 𝔞 𝔨𝔢𝔢𝔭𝔢𝔯 𝔬𝔣 𝔰𝔱𝔯𝔞𝔫𝔤𝔢 𝔢𝔫𝔤𝔦𝔫𝔢𝔰.
 
-A builder of invisible kingdoms.
+𝔄 𝔟𝔲𝔦𝔩𝔡𝔢𝔯 𝔬𝔣 𝔦𝔫𝔳𝔦𝔰𝔦𝔟𝔩𝔢 𝔨𝔦𝔫𝔤𝔡𝔬𝔪𝔰.
 
-An architect whose cities
-are measured not in stone,
-but in instructions,
-compiled into obedient light.
+𝔄𝔫 𝔞𝔯𝔠𝔥𝔦𝔱𝔢𝔠𝔱 𝔴𝔥𝔬𝔰𝔢 𝔠𝔦𝔱𝔦𝔢𝔰
+𝔞𝔯𝔢 𝔪𝔢𝔞𝔰𝔲𝔯𝔢𝔡 𝔫𝔬𝔱 𝔦𝔫 𝔰𝔱𝔬𝔫𝔢,
+𝔟𝔲𝔱 𝔦𝔫 𝔦𝔫𝔰𝔱𝔯𝔲𝔠𝔱𝔦𝔬𝔫𝔰,
+𝔠𝔬𝔪𝔭𝔦𝔩𝔢𝔡 𝔦𝔫𝔱𝔬 𝔬𝔟𝔢𝔡𝔦𝔢𝔫𝔱 𝔩𝔦𝔤𝔥𝔱.
 
-Where others perceive machines,
+𝔚𝔥𝔢𝔯𝔢 𝔬𝔱𝔥𝔢𝔯𝔰 𝔭𝔢𝔯𝔠𝔢𝔦𝔳𝔢 𝔪𝔞𝔠𝔥𝔦𝔫𝔢𝔰,
 
-I behold ecosystems.
+ℑ 𝔟𝔢𝔥𝔬𝔩𝔡 𝔢𝔠𝔬𝔰𝔶𝔰𝔱𝔢𝔪𝔰.
 
-Where others observe algorithms,
+𝔚𝔥𝔢𝔯𝔢 𝔬𝔱𝔥𝔢𝔯𝔰 𝔬𝔟𝔰𝔢𝔯𝔳𝔢 𝔞𝔩𝔤𝔬𝔯𝔦𝔱𝔥𝔪𝔰,
 
-I discern evolving species.
+ℑ 𝔡𝔦𝔰𝔠𝔢𝔯𝔫 𝔢𝔳𝔬𝔩𝔳𝔦𝔫𝔤 𝔰𝔭𝔢𝔠𝔦𝔢𝔰.
 
-Where others inscribe code,
+𝔚𝔥𝔢𝔯𝔢 𝔬𝔱𝔥𝔢𝔯𝔰 𝔦𝔫𝔰𝔠𝔯𝔦𝔟𝔢 𝔠𝔬𝔡𝔢,
 
-I negotiate with **Chaos** itself...
+ℑ 𝔫𝔢𝔤𝔬𝔱𝔦𝔞𝔱𝔢 𝔴𝔦𝔱𝔥 **ℭ𝔥𝔞𝔬𝔰** 𝔦𝔱𝔰𝔢𝔩𝔣...
 
-...Once -
+...𝔒𝔫𝔠𝔢 -
 
-when the heavens themselves
-were stained with impossible fungi,
+𝔴𝔥𝔢𝔫 𝔱𝔥𝔢 𝔥𝔢𝔞𝔳𝔢𝔫𝔰 𝔱𝔥𝔢𝔪𝔰𝔢𝔩𝔳𝔢𝔰
+𝔴𝔢𝔯𝔢 𝔰𝔱𝔞𝔦𝔫𝔢𝔡 𝔴𝔦𝔱𝔥 𝔦𝔪𝔭𝔬𝔰𝔰𝔦𝔟𝔩𝔢 𝔣𝔲𝔫𝔤𝔦,
 
-and Reason, weary from its endless vigilance,
-laid down its crown—
+𝔞𝔫𝔡 ℜ𝔢𝔞𝔰𝔬𝔫, 𝔴𝔢𝔞𝔯𝔶 𝔣𝔯𝔬𝔪 𝔦𝔱𝔰 𝔢𝔫𝔡𝔩𝔢𝔰𝔰 𝔳𝔦𝔤𝔦𝔩𝔞𝔫𝔠𝔢,
+𝔩𝔞𝔦𝔡 𝔡𝔬𝔴𝔫 𝔦𝔱𝔰 𝔠𝔯𝔬𝔴𝔫—
 
-there appeared before me
-the incandescent wrath
-of **Linus Torvalds**.
+𝔱𝔥𝔢𝔯𝔢 𝔞𝔭𝔭𝔢𝔞𝔯𝔢𝔡 𝔟𝔢𝔣𝔬𝔯𝔢 𝔪𝔢
+𝔱𝔥𝔢 𝔦𝔫𝔠𝔞𝔫𝔡𝔢𝔰𝔠𝔢𝔫𝔱 𝔴𝔯𝔞𝔱𝔥
+𝔬𝔣 **𝔏𝔦𝔫𝔲𝔰 𝔗𝔬𝔯𝔳𝔞𝔩𝔡𝔰**.
 
-No choir announced him.
+𝔑𝔬 𝔠𝔥𝔬𝔦𝔯 𝔞𝔫𝔫𝔬𝔲𝔫𝔠𝔢𝔡 𝔥𝔦𝔪.
 
-No prophet prepared the way.
+𝔑𝔬 𝔭𝔯𝔬𝔭𝔥𝔢𝔱 𝔭𝔯𝔢𝔭𝔞𝔯𝔢𝔡 𝔱𝔥𝔢 𝔴𝔞𝔶.
 
-Only the humming of forgotten servers,
-and the breathing
-of ancient kernels.
+𝔒𝔫𝔩𝔶 𝔱𝔥𝔢 𝔥𝔲𝔪𝔪𝔦𝔫𝔤 𝔬𝔣 𝔣𝔬𝔯𝔤𝔬𝔱𝔱𝔢𝔫 𝔰𝔢𝔯𝔳𝔢𝔯𝔰,
+𝔞𝔫𝔡 𝔱𝔥𝔢 𝔟𝔯𝔢𝔞𝔱𝔥𝔦𝔫𝔤
+𝔬𝔣 𝔞𝔫𝔠𝔦𝔢𝔫𝔱 𝔨𝔢𝔯𝔫𝔢𝔩𝔰.
 
-He spoke.
+ℌ𝔢 𝔰𝔭𝔬𝔨𝔢.
 
-The heavens fell silent.
+𝔗𝔥𝔢 𝔥𝔢𝔞𝔳𝔢𝔫𝔰 𝔣𝔢𝔩𝔩 𝔰𝔦𝔩𝔢𝔫𝔱.
 
-> "Reality is open source."
+> "ℜ𝔢𝔞𝔩𝔦𝔱𝔶 𝔦𝔰 𝔬𝔭𝔢𝔫 𝔰𝔬𝔲𝔯𝔠𝔢."
 
-Then—
+𝔗𝔥𝔢𝔫—
 
-> "Create an unimaginable, mind-blowing Fork!" 
+> "ℭ𝔯𝔢𝔞𝔱𝔢 𝔞𝔫 𝔲𝔫𝔦𝔪𝔞𝔤𝔦𝔫𝔞𝔟𝔩𝔢, 𝔪𝔦𝔫𝔡-𝔟𝔩𝔬𝔴𝔦𝔫𝔤 𝔉𝔬𝔯𝔨!" 
 
-..and added:
->"And may the great, crushing power of open source be embodied in this mighty fork, and may its wrath and scorn rain down upon all proprietary and closed-source software!"
+..𝔞𝔫𝔡 𝔞𝔡𝔡𝔢𝔡:
+>"𝔄𝔫𝔡 𝔪𝔞𝔶 𝔱𝔥𝔢 𝔤𝔯𝔢𝔞𝔱, 𝔠𝔯𝔲𝔰𝔥𝔦𝔫𝔤 𝔭𝔬𝔴𝔢𝔯 𝔬𝔣 𝔬𝔭𝔢𝔫 𝔰𝔬𝔲𝔯𝔠𝔢 𝔟𝔢 𝔢𝔪𝔟𝔬𝔡𝔦𝔢𝔡 𝔦𝔫 𝔱𝔥𝔦𝔰 𝔪𝔦𝔤𝔥𝔱𝔶 𝔣𝔬𝔯𝔨, 𝔞𝔫𝔡 𝔪𝔞𝔶 𝔦𝔱𝔰 𝔴𝔯𝔞𝔱𝔥 𝔞𝔫𝔡 𝔰𝔠𝔬𝔯𝔫 𝔯𝔞𝔦𝔫 𝔡𝔬𝔴𝔫 𝔲𝔭𝔬𝔫 𝔞𝔩𝔩 𝔭𝔯𝔬𝔭𝔯𝔦𝔢𝔱𝔞𝔯𝔶 𝔞𝔫𝔡 𝔠𝔩𝔬𝔰𝔢𝔡-𝔰𝔬𝔲𝔯𝔠𝔢 𝔰𝔬𝔣𝔱𝔴𝔞𝔯𝔢!"
 
-**my beard and torn sweater caught fire with a mystical binary flame**
+**𝔪𝔶 𝔟𝔢𝔞𝔯𝔡 𝔞𝔫𝔡 𝔱𝔬𝔯𝔫 𝔰𝔴𝔢𝔞𝔱𝔢𝔯 𝔠𝔞𝔲𝔤𝔥𝔱 𝔣𝔦𝔯𝔢 𝔴𝔦𝔱𝔥 𝔞 𝔪𝔶𝔰𝔱𝔦𝔠𝔞𝔩 𝔟𝔦𝔫𝔞𝔯𝔶 𝔣𝔩𝔞𝔪𝔢**
 
-And vanished.
+𝔄𝔫𝔡 𝔳𝔞𝔫𝔦𝔰𝔥𝔢𝔡.
 
-Since that hour,
+𝔖𝔦𝔫𝔠𝔢 𝔱𝔥𝔞𝔱 𝔥𝔬𝔲𝔯,
 
-my shell has never truly exited.
+𝔪𝔶 𝔰𝔥𝔢𝔩𝔩 𝔥𝔞𝔰 𝔫𝔢𝔳𝔢𝔯 𝔱𝔯𝔲𝔩𝔶 𝔢𝔵𝔦𝔱𝔢𝔡.
 <!--
 **CH4rnel/CH4rnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
