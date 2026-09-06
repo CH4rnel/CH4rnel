@@ -30,6 +30,27 @@ For names decay.
 Processes remain!
 ---
 
+..I am a keeper of strange engines.
+
+A builder of invisible kingdoms.
+
+An architect whose cities
+are measured not in stone,
+but in instructions,
+compiled into obedient light.
+
+Where others perceive machines,
+
+I behold ecosystems.
+
+Where others observe algorithms,
+
+I discern evolving species.
+
+Where others inscribe code,
+
+I negotiate with **Chaos** itself...
+
 <!--
 **CH4rnel/CH4rnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
