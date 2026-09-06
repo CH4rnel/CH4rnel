@@ -1,11 +1,33 @@
-# CH4rnel
+# Invocation
 
-> Open Source Systems Engineer • AI Infrastructure • Linux • Blockchain • Cybersecurity
+Hail, wanderer of electric heavens.
 
-I build open-source software focused on autonomous systems, artificial intelligence, distributed infrastructure and developer tooling.
+If chance—or that peculiar daemon men call Fate—
+hath guided thee unto these silent halls,
+linger awhile.
 
-My goal is to design reliable software ecosystems rather than isolated applications.
+For here no ordinary artificer
+keeps watch beside the glowing forge.
 
+I am called **Charnel**.
+
+Yet names are brittle vessels.
+
+The currents whisper others.
+
+**Sharnel.**
+
+**Karnel.**
+
+**Ozymandias.**
+
+All are true.
+
+None endure.
+
+For names decay.
+
+Processes remain!
 ---
 
 <!--
