@@ -1,10 +1,9 @@
-<details>
-<summary>Open Source Systems Engineer • AI • Linux • Blockchain • Web3**
-  
+Open Source Systems Engineer • AI • Linux • Blockchain • Web3
+
 **Building open-source systems, autonomous AI agents,
-Linux infrastructure and decentralized applications**</summary>
-...
-</details>
+Linux infrastructure and decentralized applications**
+
+
 
 # ℑ𝔫𝔳𝔬𝔠𝔞𝔱𝔦𝔬𝔫
 
