@@ -51,6 +51,46 @@ Where others inscribe code,
 
 I negotiate with **Chaos** itself...
 
+...Once -
+
+when the heavens themselves
+were stained with impossible fungi,
+
+and Reason, weary from its endless vigilance,
+laid down its crown—
+
+there appeared before me
+the incandescent wrath
+of **Linus Torvalds**.
+
+No choir announced him.
+
+No prophet prepared the way.
+
+Only the humming of forgotten servers,
+and the breathing
+of ancient kernels.
+
+He spoke.
+
+The heavens fell silent.
+
+> "Reality is open source."
+
+Then—
+
+> "Create an unimaginable, mind-blowing Fork!" 
+
+..and added:
+>"And may the great, crushing power of open source be embodied in this mighty fork, and may its wrath and scorn rain down upon all proprietary and closed-source software!"
+
+**my beard and torn sweater caught fire with a mystical binary flame**
+
+And vanished.
+
+Since that hour,
+
+my shell has never truly exited.
 <!--
 **CH4rnel/CH4rnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
